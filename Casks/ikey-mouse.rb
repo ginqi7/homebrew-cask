@@ -1,6 +1,6 @@
 cask "ikey-mouse" do
-  version "0.2.11"
-  sha256 "d0d0326962a51f2304851fb9a9289aaed0c67a94e893cb8bade3696ea0682267"
+  version "1.0.0"
+  sha256 "2e4c2d251c6c4a28d322c12234e0ac081f73e55d7db4b3d2f07054d32d54c7f5"
 
   url "https://ikeymouse.com/forum.php?mod=attachment&aid=MjA5fGU1NjFlMWMxfDE3ODE0MDMyNzJ8MHwz"
   name "iKeyMouse"
